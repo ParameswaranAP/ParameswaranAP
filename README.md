@@ -1,7 +1,7 @@
 <h3 align="center">  Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>, I'm Paramesh <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
 <h4 align="center">A passionate Embedded Software developer</h4>
 
-- 🔭 I’m currently working on [Indoor Air Quality Device](https://bldghealth.net/air-quality-doctor)
+- 🔭 I’m currently working on [Security Locks and Readers](https://www.allegion.com/corp/en/products/business.html)
 - 🌱 I’m currently learning **FreeRTOS, C++ and Driver development**
 - 👯 I’m looking to collaborate on **Low Level Driver development**
 - 📫 How to reach me **parameshmech061@gmail.com**
